@@ -1,6 +1,6 @@
 package com.one.digital.innovation.personapi.controller;
 
-import com.one.digital.innovation.personapi.dto.MessageResponseDTO;
+import com.one.digital.innovation.personapi.dto.response.MessageResponseDTO;
 import com.one.digital.innovation.personapi.dto.request.PersonDTO;
 import com.one.digital.innovation.personapi.exception.PersonNotFoundException;
 import com.one.digital.innovation.personapi.service.PersonService;
